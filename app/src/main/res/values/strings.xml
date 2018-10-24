@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MYLocationApp</string>
+    <string name="location_permission_denied">Location Permission Requsest Denied</string>
+    <string name="no_location">Location Permission Requsest Denied</string>
+    <string name="textViewLongitude">"Longitude: %1$.4f"</string>
+    <string name="textViewLatitude">"Latitude: %1$.4f "</string>
+    <string name="textViewTime">"Timestamp: %1$tr"</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="no_address_found">No address found</string>
+    <string name="loading">loading</string>
+    <string name="invalid_lat_long_used">Invalid coordinates where supplied to the geocoder</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
+ \n Timestamp: %3$tr"</string>
+</resources>
+
+
+
